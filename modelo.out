@@ -1,0 +1,45 @@
+Controlador de execução do SIMAN.
+
+452.72237 Horas>
+                                      ARENA Simulation Results
+                                            Victor Farias
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução :11/ 9/2018
+Analista: Victor Farias                                               Data de revisão do modelo:11/ 9/2018
+
+Replicação terminada no tempo de      : 452.72237 Horas 
+Unidade de Tempo Base: Horas
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             3.8449     .13359     2.2276     12.498        461    
+Entity 1.NVATime                            .00000     .00000     .00000     .00000        461    
+Entity 1.WaitTime                           .00000     .00000     .00000     .00000        461    
+Entity 1.TranTime                           .00000     .00000     .00000     .00000        461    
+Entity 1.OtherTime                          .00000     .00000     .00000     .00000        461    
+Entity 1.TotalTime                          3.8449     .13359     2.2276     12.498        461    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                3.9260     .40111     .00000     11.000     3.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Entity 1.NumberIn                           464.00    
+Entity 1.NumberOut                          461.00    
+System.NumberOut                            461.00    
+
+
+Tempo executando a simulação: 0.98 minutos.
+Simulação completada.

@@ -1,0 +1,16 @@
+[RESOURCES]
+[VARIABLES]
+Fila 4.NumberOut
+Fila 3.NumberOut
+Fila 2.NumberOut
+Fila 1.NumberOut
+Entrada.NumberOut
+Saída.NumberOut
+Bifurcação 2.NumberOut True
+Bifurcação 1.NumberOut True
+Fila 4.NumberIn
+Fila 3.NumberIn
+Fila 2.NumberIn
+Fila 1.NumberIn
+Bifurcação 2.NumberOut False
+Bifurcação 1.NumberOut False
