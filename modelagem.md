@@ -2,13 +2,21 @@
 [Imagem da modelagem]()
 
 γ = 5 eps
+
 λ1 = 6,25 eps
+
 λ2 = 5 eps
+
 λ3 = 3 eps
+
 λ4 = 2 eps
+
 T1 = 0,08 s
+
 T2 = 0,1 s
+
 T3 = 0,2 s
+
 T4 = 0,32 s
 
 - Utilização:
