@@ -1,5 +1,5 @@
 # Modelagem
-[Imagem da modelagem](https://github.com/LDVictor/MT5-ADSD/blob/master/Documentos/modelo.png)
+![Imagem da modelagem](https://github.com/LDVictor/MT5-ADSD/blob/master/Documentos/modelo.png)
 
 γ = 5 eps
 
