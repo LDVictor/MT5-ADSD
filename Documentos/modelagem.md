@@ -1,5 +1,5 @@
 # Modelagem
-[Imagem da modelagem]()
+[Imagem da modelagem](https://github.com/LDVictor/MT5-ADSD/blob/master/Documentos/modelo.png)
 
 γ = 5 eps
 
@@ -77,4 +77,4 @@ T4 = 0,32 s
   
   -> Tempo de resposta: R >= 1,68 s
   
-  [Para ver os cálculos detalhados, clique aqui]()
+  [Para ver os cálculos detalhados, clique aqui](https://github.com/LDVictor/MT5-ADSD/tree/master/Documentos/C%C3%A1lculos)
