@@ -9,5 +9,5 @@ MaxScanRows=8
 MaxBufferSize=2048
 FIL=MS Access
 DriverId=281
-DefaultDir=C:\Users\faria\Documents\MT5-ADSD\MT5-ADSD\Validação
+DefaultDir=c:\Users\faria\Documents\MT5-ADSD\MT5-ADSD\Validação
 DBQ=C:\Users\faria\Documents\MT5-ADSD\MT5-ADSD\Validação\modelo.accdb

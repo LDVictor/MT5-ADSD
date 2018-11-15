@@ -1,12 +1,11 @@
 
-0.0 Horas>
                                       ARENA Simulation Results
                                             Victor Farias
 
                                   Sumário para Replicação 1 de 1
 
-Projeto: Unnamed Project                                             Data da execução :11/12/2018
-Analista: Victor Farias                                               Data de revisão do modelo:11/12/2018
+Projeto: Unnamed Project                                             Data da execução :11/15/2018
+Analista: Victor Farias                                               Data de revisão do modelo:11/15/2018
 
 Replicação terminada no tempo de      : 1.3876422 Horas 
 Unidade de Tempo Base: Horas
@@ -18,34 +17,37 @@ ________________________________________________________________________________
 
 Chegada.VATime                              4.8402E-04 1.7418E-05 1.8692E-05 .00172       1000    
 Chegada.NVATime                             .00000     .00000     .00000     .00000       1000    
-Chegada.WaitTime                            9.5144E-07 1.0707E-06 .00000     3.3041E-04   1000    
+Chegada.WaitTime                            3.2504E-08 6.6844E-08 .00000     3.2504E-05   1000    
 Chegada.TranTime                            .00000     .00000     .00000     .00000       1000    
 Chegada.OtherTime                           .00000     .00000     .00000     .00000       1000    
-Chegada.TotalTime                           4.8497E-04 1.7600E-05 1.8692E-05 .00172       1000    
+Chegada.TotalTime                           4.8405E-04 1.7453E-05 1.8692E-05 .00172       1000    
 Fila 4.Queue.WaitingTime                    8.2919E-08 1.7513E-07 .00000     3.2504E-05    392    
 Fila 3.Queue.WaitingTime                    .00000     .00000     .00000     .00000        608    
 Fila 2.Queue.WaitingTime                    .00000     .00000     .00000     .00000       1000    
-Fila 1.Queue.WaitingTime                    7.3810E-07 8.8055E-07 .00000     3.3041E-04   1245    
+Fila 1.Queue.WaitingTime                    .00000     .00000     .00000     .00000       1245    
 
                                      VARIÁVEIS DISCRETAS
 
 Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
 ___________________________________________________________________________________________________
 
-Chegada.WIP                                 .34949     (Insuf)    .00000     2.0000     .00000    
+Chegada.WIP                                 .34883     (Insuf)    .00000     2.0000     .00000    
 Recurso 2.NumberBusy                        .09997     (Insuf)    .00000     1.0000     .00000    
 Recurso 2.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
 Recurso 2.Utilization                       .09997     (Insuf)    .00000     1.0000     .00000    
-Recurso 1.NumberBusy                        .19915     (Insuf)    .00000     1.0000     .00000    
+Recurso 3.NumberBusy                        .07442     (Insuf)    .00000     1.0000     .00000    
+Recurso 3.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Recurso 3.Utilization                       .07442     (Insuf)    .00000     1.0000     .00000    
+Recurso 1.NumberBusy                        .12473     (Insuf)    .00000     1.0000     .00000    
 Recurso 1.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
-Recurso 1.Utilization                       .19915     (Insuf)    .00000     1.0000     .00000    
+Recurso 1.Utilization                       .12473     (Insuf)    .00000     1.0000     .00000    
 Recurso 4.NumberBusy                        .04969     (Insuf)    .00000     1.0000     .00000    
 Recurso 4.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
 Recurso 4.Utilization                       .04969     (Insuf)    .00000     1.0000     .00000    
 Fila 4.Queue.NumberInQueue                  2.3424E-05 (Insuf)    .00000     1.0000     .00000    
 Fila 3.Queue.NumberInQueue                  .00000     (Insuf)    .00000     .00000     .00000    
 Fila 2.Queue.NumberInQueue                  .00000     (Insuf)    .00000     .00000     .00000    
-Fila 1.Queue.NumberInQueue                  6.6223E-04 (Insuf)    .00000     1.0000     .00000    
+Fila 1.Queue.NumberInQueue                  .00000     (Insuf)    .00000     .00000     .00000    
 
                                              RESULTADOS
 
@@ -56,12 +58,14 @@ Chegada.NumberIn                            1000.0
 Chegada.NumberOut                           1000.0    
 Recurso 2.NumberSeized                      1000.0    
 Recurso 2.ScheduledUtilization              .09997    
-Recurso 1.NumberSeized                      1853.0    
-Recurso 1.ScheduledUtilization              .19915    
+Recurso 3.NumberSeized                      608.00    
+Recurso 3.ScheduledUtilization              .07442    
+Recurso 1.NumberSeized                      1245.0    
+Recurso 1.ScheduledUtilization              .12473    
 Recurso 4.NumberSeized                      392.00    
 Recurso 4.ScheduledUtilization              .04969    
 System.NumberOut                            1000.0    
 
 
-Tempo executando a simulação: 0.38 minutos.
+Tempo executando a simulação: 0.33 minutos.
 Simulação completada.
